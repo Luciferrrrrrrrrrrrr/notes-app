@@ -4,6 +4,9 @@
 node_modules/
 
 .env
+starter-for-react-native/
+starter-for-ios/
+notes-app-final/
 
 # Expo
 .expo/
